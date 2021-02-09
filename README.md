@@ -1,7 +1,7 @@
 Introduction
 ------------
 
-Run this module to change your android app's version code and name externally.
+Run this module to change your Android app's version code and name externally.
 
 ## Installation
 Install via pip:
